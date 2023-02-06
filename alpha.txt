@@ -1,1 +1,6 @@
 i m alpha file. making changes as developer A
+i m alpha file. developer B making changes
+
+
+......
+>>>>>>> 84ad3c1 (coming from developer B)
