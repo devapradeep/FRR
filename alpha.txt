@@ -1,6 +1,11 @@
 i m alpha file. making changes as developer A
+<<<<<<< HEAD
 i m alpha file. developer B making changes
 
 
 ......
 >>>>>>> 84ad3c1 (coming from developer B)
+=======
+i m manking cgange as decloper A
+>>>>>>> 8387e4e (commit done by developer A)
+>>>>>>> a2301bc (commit done by developer A)
